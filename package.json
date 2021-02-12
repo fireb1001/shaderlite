@@ -12,7 +12,7 @@
     "postuninstall": "electron-builder install-app-deps"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bookshelf": "^0.15.1",
     "bookshelf-soft-delete": "^5.0.0",
     "bootstrap-vue": "^2.3.0",
